@@ -1,0 +1,24 @@
+#button-undo{
+    -fx-background-image: url("../left.png");
+    -fx-background-size: 90.0% 90.0%;
+}
+
+#button-redo{
+    -fx-background-image: url("../right.png");
+    -fx-background-size: 90.0% 90.0%;
+}
+
+#button-rotate-left{
+    -fx-background-image: url("../undo.png");
+    -fx-background-size: 90.0% 90.0%;
+}
+
+#button-rotate-right{
+    -fx-background-image: url("../redo.png");
+    -fx-background-size: 90.0% 90.0%;
+}
+
+.button{
+    -fx-background-radius: 5pt;
+
+}
